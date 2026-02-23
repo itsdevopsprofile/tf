@@ -12,3 +12,11 @@
 <img width="1907" height="883" alt="image" src="https://github.com/user-attachments/assets/512d80b1-746d-4ea6-8326-07ba324c1902" />
 <img width="1092" height="668" alt="image" src="https://github.com/user-attachments/assets/316ee28e-7ada-47af-85b7-907dbfd71c36" />
 
+## Step3: Installation
+````
+https://developer.hashicorp.com/terraform/tutorials/aws-get-started/install-cli
+````
+## Step4: Setup provider.tf (aws+tf connnection)
+````
+https://registry.terraform.io/providers/hashicorp/aws/latest
+````
